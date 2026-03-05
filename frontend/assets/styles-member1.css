@@ -1,0 +1,47 @@
+/* Site-wide layout and café theme */
+body {
+    background-color: #f5f2eb; /* Light coffee tone background */
+    font-family: Arial, sans-serif;
+}
+
+header.bg-dark {
+    background-color: #3c2f2f !important; /* Darker coffee shade for header */
+}
+
+.navbar-dark .navbar-nav .nav-link {
+    color: #f5f2eb; /* Light cream for nav links */
+}
+
+.navbar-dark .navbar-nav .nav-link:hover {
+    color: #d4a373; /* Warm coffee hover effect */
+}
+
+.accordion-button {
+    background-color: #8b4513; /* Coffee brown for accordion buttons */
+    color: white;
+}
+
+.accordion-button:not(.collapsed) {
+    background-color: #6b3e0f; /* Darker shade when expanded */
+    color: white;
+}
+
+footer.bg-dark {
+    background-color: #3c2f2f !important; /* Match header color */
+}
+
+/* Additional styles for page4 */
+.card-img-top {
+    height: 200px;
+    object-fit: cover;
+}
+
+.btn-primary {
+    background-color: #d4a373;
+    border-color: #d4a373;
+}
+
+.btn-primary:hover {
+    background-color: #a67b5b;
+    border-color: #a67b5b;
+}

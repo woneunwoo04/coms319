@@ -1,0 +1,26 @@
+[
+    {
+        "question": "What are your cafe's opening hours?",
+        "answer": "Cafe is open Monday to Friday from 7:00 AM to 8:00 PM, and Saturday to Sunday from 8:00 AM to 6:00 PM."
+    },
+    {
+        "question": "Do you offer vegan or gluten-free options?",
+        "answer": "Yes, we have a variety of vegan and gluten-free options on our menu. Check the Drinks pages for details or ask our staff for recommendations."
+    },
+    {
+        "question": "Can I make a reservation for a group?",
+        "answer": "Yes, we accept reservations for groups of 4 or more."
+    },
+    {
+        "question": "Do you have Wi-Fi available for customers?",
+        "answer": "Yes, we offer free Wi-Fi to all customers. Ask our staff for the password when you visit."
+    },
+    {
+        "question": "Do you have parking?",
+        "answer": "Yes, free parking is available nearby."
+    },
+    {
+        "question": "Are pets allowed?",
+        "answer": "Service animals only are allowed inside the cafe."
+    }
+]

@@ -1,0 +1,23 @@
+{
+  "authors": [
+    {
+      "id": 1,
+      "name": "Carolina Benitez",
+      "email": "cbenitez@iastate.edu",
+      "image": "assets/images/Carolina.png",
+      "alt": "Carolina Benitez",
+      "bio": "i hit my bf Currently a junior studying Computer Science with a minor in Data Science and I have 20 years of loving coffee.",
+      "course": "Course Name: Construction of User Interfaces, Fall 2025"
+    },
+    {
+      "id": 2,
+      "name": "Eunwoo Won",
+      "email": "eunwoo07@iastate.edu",
+      "image": "assets/images/Eunwoo.PNG",
+      "alt": "Eunwoo Won",
+      "bio": "Currently studying Computer Science with a strong interest in AI ethics, focusing on fairness, transparency, and the societal impact of emerging technologies.",
+      "course": "Course Name: Construction of User Interfaces, Fall 2025"
+    }
+  ]
+}
+

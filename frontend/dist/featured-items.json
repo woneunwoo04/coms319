@@ -1,0 +1,79 @@
+{
+  "featuredItems": [
+    {
+      "id": 1,
+      "name": "Hot Chocolate",
+      "description": "Rich, creamy hot chocolate topped with whipped cream and marshmallows. Perfect for cozy moments.",
+      "price": 4.50,
+      "image": "/assets/images/hotChocolate.jpg",
+      "alt": "Hot Chocolate",
+      "badge": "Hot",
+      "link": "/menu?type=hot",
+      "linkText": "Click to view all hot drinks →"
+    },
+    {
+      "id": 2,
+      "name": "Vanilla Chai",
+      "description": "Aromatic spiced tea with warm vanilla notes. A perfect blend of tradition and comfort.",
+      "price": 6.00,
+      "image": "/assets/images/vanillaChai.jpg",
+      "alt": "Vanilla Chai",
+      "badge": "Hot",
+      "link": "/menu?type=hot",
+      "linkText": "Click to view all hot drinks →"
+    },
+    {
+      "id": 3,
+      "name": "Iced Matcha Latte",
+      "description": "Vibrant green matcha powder whisked with cold milk and served over ice for a refreshing treat.",
+      "price": 5.75,
+      "image": "/assets/images/iced-matcha-latte.jpg",
+      "alt": "Iced Matcha Latte",
+      "badge": "Cold",
+      "link": "/menu?type=cold",
+      "linkText": "Click to view all cold drinks →"
+    },
+    {
+      "id": 4,
+      "name": "Fresh Lemonade",
+      "description": "Zesty and refreshing lemonade made with freshly squeezed lemons and a hint of mint.",
+      "price": 4.50,
+      "image": "/assets/images/Fresh_lemonade.jpg",
+      "alt": "Fresh Lemonade",
+      "badge": "Cold",
+      "link": "/menu?type=cold",
+      "linkText": "Click to view all cold drinks →"
+    },
+    {
+      "id": 5,
+      "name": "Pumpkin Maple",
+      "description": "Brewed coffee combined with coconut milk, vanilla, spiced pumpkin butter, and cinnamon.",
+      "price": 6.50,
+      "image": "/assets/images/pumpkinMaple.jpg",
+      "alt": "Pumpkin Maple",
+      "badge": "Seasonal",
+      "link": "/menu?type=hot",
+      "linkText": "Click to view all hot drinks →"
+    },
+    {
+      "id": 6,
+      "name": "Spiced Cider",
+      "description": "A warm, flavorful drink made by simmering apple cider with various whole spices and citrus fruits.",
+      "price": 5.00,
+      "image": "/assets/images/spicedCider.jpg",
+      "alt": "Spiced Cider",
+      "badge": "Hot",
+      "link": "/menu?type=hot",
+      "linkText": "Click to view all hot drinks →"
+    }
+  ],
+  "hero": {
+    "title": "Welcome to Café Delight",
+    "subtitle": "Experience the perfect blend of warmth, flavor, and comfort",
+    "description": "Step into our cozy café and discover a world of carefully crafted beverages. From rich, aromatic hot drinks to refreshing cold beverages, we offer something special for every taste and mood. Our menu features premium ingredients and time-honored recipes that will delight your senses."
+  }
+}
+
+
+
+

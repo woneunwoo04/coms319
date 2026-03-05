@@ -1,0 +1,164 @@
+{
+  "hotDrinks": [
+    {
+      "id": 1,
+      "name": "Hot Chocolate",
+      "description": "A heated drink consisting of shaved chocolate, heated milk and sweetener garnished with whipped cream and marshmallows.",
+      "price": 4.50,
+      "image": "assets/images/hotChocolate.jpg",
+      "alt": "Hot Chocolate with whipped cream",
+      "ingredients": ["Shaved chocolate", "Heated milk", "Sweetener", "Whipped cream", "Marshmallows"]
+    },
+    {
+      "id": 2,
+      "name": "Hot Matcha",
+      "description": "Sifted matcha powder and hot water before combined with frothed, heated milk.",
+      "price": 6.00,
+      "image": "assets/images/hotMatcha.jpg",
+      "alt": "Hot Matcha with frothed milk",
+      "ingredients": ["Matcha powder", "Hot water", "Frothed milk", "Sweetener"]
+    },
+    {
+      "id": 3,
+      "name": "Lavender Chamomile Tea",
+      "description": "A tea blend of chamomile and lavender mixed with warm, frothed milk.",
+      "price": 5.00,
+      "image": "assets/images/Lavender.jpg",
+      "alt": "Lavender Chamomile Tea",
+      "ingredients": ["Chamomile tea", "Lavender", "Warm milk", "Honey"]
+    },
+    {
+      "id": 4,
+      "name": "Pumpkin Maple",
+      "description": "Brewed coffee combined with coconut milk, vanilla, spiced pumpkin butter, and cinnamon.",
+      "price": 6.50,
+      "image": "assets/images/pumpkinMaple.jpg",
+      "alt": "Pumpkin Maple Coffee",
+      "ingredients": ["Brewed coffee", "Coconut milk", "Vanilla", "Spiced pumpkin butter", "Cinnamon"]
+    },
+    {
+      "id": 5,
+      "name": "Spiced Cider",
+      "description": "A warm, flavorful drink made by simmering apple cider with various whole spices and citrus fruits.",
+      "price": 5.00,
+      "image": "assets/images/spicedCider.jpg",
+      "alt": "Spiced Apple Cider",
+      "ingredients": ["Apple cider", "Cinnamon sticks", "Cloves", "Orange peel", "Brown sugar"]
+    },
+    {
+      "id": 6,
+      "name": "Vanilla Chai",
+      "description": "A creamy, sweetened, spiced tea with prominent flavors of warm spices.",
+      "price": 6.00,
+      "image": "assets/images/vanillaChai.jpg",
+      "alt": "Vanilla Chai Tea",
+      "ingredients": ["Black tea", "Cardamom", "Cinnamon", "Ginger", "Vanilla", "Milk", "Sugar"]
+    }
+  ],
+  "ColdDrinks": [
+    {
+      "id": 1,
+      "name": "Iced Caramel Latte",
+      "description": "Smooth espresso blended with chilled milk and caramel sauce, served over ice. Perfect for a refreshing coffee break.",
+      "price": 5.50,
+      "image": "assets/images/Iced-Caramel-Latte.jpg",
+      "alt": "Iced Latte in a glass with ice",
+      "ingredients": ["Espresso", "Chilled milk", "Caramel sauce", "Ice"]
+    },
+    {
+      "id": 2,
+      "name": "Iced Mocha",
+      "description": "Rich espresso, chocolate syrup, and cold milk, topped with a chocolate drizzle. A sweet, cool treat.",
+      "price": 5.00,
+      "image": "assets/images/iced-mocha.jpg",
+      "alt": "Iced Mocha with chocolate drizzle",
+      "ingredients": ["Espresso", "Chocolate syrup", "Cold milk", "Ice", "Chocolate drizzle"]
+    },
+    {
+      "id": 3,
+      "name": "Fresh Lemonade",
+      "description": "Zesty and refreshing lemonade made with freshly squeezed lemons and a hint of mint.",
+      "price": 4.50,
+      "image": "assets/images/Fresh_lemonade.jpg",
+      "alt": "Fresh Lemonade with lemon slices",
+      "ingredients": ["Freshly squeezed lemons", "Water", "Sugar", "Mint", "Ice"]
+    },
+    {
+      "id": 4,
+      "name": "Strawberry Acai Refresher",
+      "description": "A vibrant blend of strawberry and acai flavors, served over ice for a refreshing, fruity drink.",
+      "price": 6.00,
+      "image": "assets/images/Strawberry_Acai_Refresher.jpg",
+      "alt": "Strawberry Acai Refresher with ice",
+      "ingredients": ["Strawberry puree", "Acai juice", "Water", "Ice"]
+    },
+    {
+      "id": 5,
+      "name": "Mango Smoothie",
+      "description": "A creamy blend of ripe mangoes, yogurt, and ice, offering a tropical and refreshing taste.",
+      "price": 5.50,
+      "image": "assets/images/Mango_Smoothie.jpg",
+      "alt": "Mango Smoothie in a glass",
+      "ingredients": ["Ripe mangoes", "Yogurt", "Ice", "Honey"]
+    },
+    {
+      "id": 6,
+      "name": "Iced Matcha Latte",
+      "description": "Vibrant green matcha powder whisked with cold milk and served over ice for a smooth, earthy refreshment.",
+      "price": 5.75,
+      "image": "assets/images/iced-matcha-latte.jpg",
+      "alt": "Cold Brew Coffee with ice",
+      "ingredients": ["Matcha powder", "Cold milk", "Ice", "Sugar syrup"]
+    }
+  ],
+    "Desserts": [
+      {
+        "id": 1,
+        "name": "Tiramisu",
+        "description": "A rich, coffee-flavored Italian dessert with layers of mascarpone cream and cocoa.",
+        "price": 6.50,
+        "ingredients": "mascarpone cheese, coffee, ladyfingers, cocoa, sugar",
+        "image_url": "assets/images/Cafe-Delites-Tiramisu-23.jpg"
+      },
+      {
+        "id": 2,
+        "name": "Dubai Strawberry Cup",
+        "description": "A refreshing dessert cup with fresh strawberries and creamy layers.",
+        "price": 5.75,
+        "ingredients": "strawberries, cream, sugar, gelatin",
+        "image_url": "assets/images/Dubai_Strawberry_Cup.jpg"
+      },
+      {
+        "id": 3,
+        "name": "Pastry",
+        "description": "Flaky, buttery pastry with a sweet filling, perfect for a treat.",
+        "price": 4.00,
+        "ingredients": "flour, butter, sugar, fruit filling",
+        "image_url": "assets/images/pastry.jpg"
+      },
+      {
+        "id": 4,
+        "name": "Chocolate Cake",
+        "description": "Moist chocolate cake with a rich ganache topping.",
+        "price": 6.00,
+        "ingredients": "chocolate, flour, eggs, sugar, cream",
+        "image_url": "assets/images/Chocolate_Cake.jpg"
+      },
+      {
+        "id": 5,
+        "name": "Creme Brulee",
+        "description": "Silky vanilla custard topped with a caramelized sugar crust.",
+        "price": 5.50,
+        "ingredients": "cream, vanilla, sugar, egg yolks",
+        "image_url": "assets/images/Creme-brulee.jpg"
+      },
+      {
+        "id": 6,
+        "name": "Ice Cream Sundae",
+        "description": "A delightful mix of ice cream, toppings, and whipped cream.",
+        "price": 4.50,
+        "ingredients": "ice cream, chocolate syrup, whipped cream, nuts",
+        "image_url": "assets/images/Ice-cream-sundae.jpg"
+      }
+    ]
+  }
